@@ -1,13 +1,12 @@
 # 0x01. NoSQL(MongoDB)
 ![image](https://github.com/GEDIH/alx-backend-storage/assets/117825147/25801eb9-e6d1-440f-b1af-29340b3adf60)
 
-![](https://cdn-media-1.freecodecamp.org/images/1*Ta4qktHtO--RMUpnR08mBg.jpeg)
-
 MongoDB is a source-available cross-platform document-oriented database program developed by Alfons Kemper. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL) which is deemed non-free by several distributions. MongoDB is a member of the MACH Alliance.
 
 Traditional databases(RDBMSs’) are mainly defined for structured data(where fields store all kind of data). But when it comes to ‘Big data’, where we have larger amount of data , defining a well structured way won’t work. That’s where NoSQL comes in. NoSQL systems can handle both structured and unstructured data in a very efficient manner. Nowadays almost all kind of companies use tremendous amount of unstructured data like Google, Facebook, LinkedIn .
 
-![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*iIjTK0x4CoP6fH1xEcQESw.png)
+![image](https://github.com/GEDIH/alx-backend-storage/assets/117825147/5940d3a7-ffe4-4f3c-8b8a-21ede41ebb02)
+
 
 ## A MongoDB Document
 
@@ -26,6 +25,7 @@ Records in a MongoDB database are called documents, and the field values may inc
 ## Resources
 
 **Read or watch**:
+![image](https://github.com/GEDIH/alx-backend-storage/assets/117825147/222eab3f-24e6-4c32-93cf-840d688cce19)
 
 -   [NoSQL Databases Explained](https://riak.com/resources/nosql-databases/)
 
