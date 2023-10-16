@@ -15,9 +15,11 @@ Records in a MongoDB database are called documents, and the field values may inc
 ```json
 {
 	'title': "Learning NoSQL",
-	'body': "Am an ALX SE Stuent learning about NoSQL DB and its an interesting adventure",
+	'body': "Am an ALX SE Student learning about NoSQL DB and its an interesting adventure",
 	'category': "Databases",
-	'specialization': Backend SE,
+	'specialization': Backend software engineer,
+        'firstname':"Hambisa",
+         'lastname':"Adamu",
 	'tags': ["news", "events"],
 }
 ```
