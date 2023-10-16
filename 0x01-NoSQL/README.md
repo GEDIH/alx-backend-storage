@@ -1,5 +1,5 @@
 # 0x01. NoSQL(MongoDB)
-
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.digitalocean.com%2Fcommunity%2Ftutorials%2Fhow-to-use-the-mongodb-shell&psig=AOvVaw3l6Z5_juGX8oc0tZuXaRuE&ust=1697521894393000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMj7g_zv-YEDFQAAAAAdAAAAABAE
 ![](https://cdn-media-1.freecodecamp.org/images/1*Ta4qktHtO--RMUpnR08mBg.jpeg)
 
 MongoDB is a source-available cross-platform document-oriented database program developed by Alfons Kemper. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL) which is deemed non-free by several distributions. MongoDB is a member of the MACH Alliance.
