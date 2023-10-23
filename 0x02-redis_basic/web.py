@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Redis Module """
+""" Redis Module Cache and tracking """
 
 from functools import wraps
 import redis
@@ -7,8 +7,6 @@ import requests
 from typing import Callable
 
 redis_ = redis.Redis()
-
-
 def count_requests(method: Callable) -> Callable:
     """ Decortator for counting """
     @wraps(method)
