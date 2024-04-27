@@ -26,12 +26,6 @@ CREATE TABLE IF NOT EXISTS corrections (
     CONSTRAINT fk_project_id FOREIGN KEY (`project_id`) REFERENCES `projects` (`id`) ON DELETE CASCADE
 );
 
--- LAST_INSERT_ID() return the AUTO_INCREMENT id
--- of the last row that has been inserted
-
--- In MySQL stored procedures,
--- user variables are referenced with an ampersand (@)
-
 INSERT INTO users (name) VALUES ("Bob");
 SET @user_bob = LAST_INSERT_ID();
 
