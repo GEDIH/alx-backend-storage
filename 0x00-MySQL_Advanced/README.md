@@ -58,7 +58,7 @@ sudo apt install mysql-server
 
 ```bash
 mysql -u username -p < script.sql
-```
+--```
 
 ## Usage
 
