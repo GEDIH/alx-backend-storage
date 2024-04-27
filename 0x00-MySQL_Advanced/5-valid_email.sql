@@ -1,5 +1,4 @@
-  
--- Create a trigger to reset valid_email,
+  --- Create a trigger to reset valid_email,
 -- only when the email has been changed
 DELIMITER |
 CREATE TRIGGER email_bool BEFORE UPDATE ON users
